@@ -1,7 +1,7 @@
 # DCGAN on CelebA - Google Colab Implementation
 
-## 📌 Project Overview
-This project implements a **Deep Convolutional Generative Adversarial Network (DCGAN)** to generate realistic human faces using the **CelebA** dataset. The entire implementation is optimized for **Google Colab** and utilizes **PyTorch** for model training and image generation.
+## 📌 Overview
+Implementing a **Deep Convolutional Generative Adversarial Network (DCGAN)** to generate realistic human faces using the **CelebA** dataset. The entire implementation is optimized for **Google Colab** and utilizes **PyTorch** for model training and image generation.
 
 ## 🚀 Features
 ✅ **Loads and preprocesses the CelebA dataset** in Google Colab without requiring Google Drive.  
